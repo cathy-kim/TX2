@@ -17,4 +17,8 @@ CAFFE ON TX2
 
 Real-time object detection 
 - https://jkjung-avt.github.io/ssd/ 
-- https://jkjung-avt.github.io/camera-ssd-threaded/
+- https://jkjung-avt.github.io/camera-ssd-threaded/ 
+
+Performance Maximization 
+- sudo nvpmodel -m 0
+- sudo ~/jetson_clocks.sh
