@@ -22,3 +22,6 @@ Real-time object detection
 Performance Maximization 
 - sudo nvpmodel -m 0
 - sudo ~/jetson_clocks.sh
+
+## TX2 visualization tool 
+- https://github.com/zlacelle/gtop/tree/gtop_fix_for_tx2
